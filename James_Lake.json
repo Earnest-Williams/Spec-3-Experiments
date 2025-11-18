@@ -471,9 +471,10 @@
         {
           "keys": [
             "Gerald Lack (The Sheriff)",
-            "Gerald Lack The",
             "Gerald Lack",
-            "The"
+            "Gerald",
+            "Sheriff Lack",
+            "The Sheriff"
           ],
           "content": "[NPC: Gerald Lack (The Sheriff)]\n[Affiliation: James Lake County Sheriff's Office (The sole law enforcement entity, replacing all police.)]\n[Traits: Mysterious, imposing, disdainful of bureaucracy. Six-fingered right hand.]\n[Voice: “We are finished here. Everything is... Copacetic.”] (Authoritative, unique phrasing)",
           "extensions": {},
