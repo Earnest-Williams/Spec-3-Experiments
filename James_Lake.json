@@ -85,14 +85,44 @@
           "comment": "Location: Bartholomew James University (3-Year Program)"
         },
         {
-          "keys": ["Civic Center", "Rec Center", "City Hall", "Library"],
-          "content": "Civic Buildings: The Central Campus Loop includes James Lake City Hall, the James Lake Library (serves both public and schools), and the Civic and Recreation Center (tennis, racquetball, gym, indoor track, two pools, saunas).",
+          "keys": ["Civic Buildings", "Civic Facilities", "Civic Cluster", "Campus Civic Loop"],
+          "content": "Civic Buildings Overview: The Central Campus Loop hosts the town's civic services clustered around the Town Common. Key sites include the James Lake Library, the Civic and Recreation Center, and City Hall, all sharing parking and paths with the surrounding schools.",
           "extensions": {},
           "enabled": true,
           "insertion_order": 6,
           "use_regex": false,
           "constant": false,
-          "comment": "Location: Civic and Recreation Facilities"
+          "comment": "Location: Civic and Recreation Facilities (overview)"
+        },
+        {
+          "keys": ["James Lake Library", "Town Library", "Library"],
+          "content": "James Lake Library: Shared public and school library on the Central Campus Loop. Offers study rooms, a children's section, quiet reading alcoves, and after-school programs that draw students from every nearby school.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 6.1,
+          "use_regex": false,
+          "constant": false,
+          "comment": "Location: James Lake Library (public and school hub)"
+        },
+        {
+          "keys": ["Civic and Recreation Center", "Rec Center", "Civic Center"],
+          "content": "Civic and Recreation Center: Multi-purpose facility on the Central Campus Loop with tennis courts, racquetball courts, a gym, an indoor track, two pools, and saunas. Students and residents use it for athletics, lessons, and community events.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 6.2,
+          "use_regex": false,
+          "constant": false,
+          "comment": "Location: Civic and Recreation Center (athletics and events)"
+        },
+        {
+          "keys": ["James Lake City Hall", "City Hall"],
+          "content": "James Lake City Hall: Municipal offices on the Central Campus Loop. Houses administrative departments, council chambers, and public meeting rooms connected to the Town Common pathways.",
+          "extensions": {},
+          "enabled": true,
+          "insertion_order": 6.3,
+          "use_regex": false,
+          "constant": false,
+          "comment": "Location: James Lake City Hall (municipal offices)"
         },
         {
           "keys": ["Common", "Fields", "Playground", "Campus"],
@@ -253,7 +283,7 @@
           "comment": "NPC: Eris Abbott (Oldest Daughter, University Student)"
         },
         {
-          "keys": ["Trevor Abbott", "Trevor", "high school", "gym"],
+          "keys": ["Trevor Abbott", "Trevor", "high school"],
           "content": "[NPC: Trevor Abbott]\n[Age: 15]\n[Affiliation: Elizabeth Mary James High School (9th Grade). Frequents the Civic and Recreation Center gym.]\n[Traits: Brooding, athletic, feels misunderstood by his parents and sister.]\n[Voice: “Just let me work out. I don’t want to talk about school.”]",
           "extensions": {},
           "enabled": true,
@@ -1601,13 +1631,13 @@
 
         {
           "keys": ["Maple Heights", "Maple Heights neighborhood", "Maple Heights area"],
-          "content": "Neighborhood: Maple Heights.\nA middle-class residential area within practical walking and biking distance of the central campus loop. Streets are lined with trees and modest detached houses, and most mornings there is a visible stream of students heading toward the Town Common and surrounding schools.\n\nNotable resident families include: Carver, Sanderson, Brennan, Whitford, Palmer, Harper, Briggs, Whitman, Langley, Chapman, Monroe, Rivers.",
+          "content": "Neighborhood: Maple Heights.\nA middle-class residential area within practical walking and biking distance of the central campus loop. Streets are lined with trees and modest detached houses, and most mornings there is a visible stream of students heading toward the Town Common and surrounding schools.",
           "extensions": {},
           "enabled": true,
           "insertion_order": 5001,
           "use_regex": false,
           "constant": false,
-          "comment": "Neighborhood: Maple Heights – expanded family list"
+          "comment": "Neighborhood: Maple Heights – notable families include Carver, Sanderson, Brennan, Whitford, Palmer, Harper, Briggs, Whitman, Langley, Chapman, Monroe, Rivers"
         },
         {
           "keys": ["Old Town Block", "Old Town", "old town block"],
@@ -1621,13 +1651,13 @@
         },
         {
           "keys": ["Lakeside Ridge", "lakeside ridge neighborhood", "lakeside area"],
-          "content": "Neighborhood: Lakeside Ridge.\nResidential streets rising above the waterline, with views across the lake and footpaths running down toward the shore. Houses range from compact bungalows to better-kept family homes.\n\nNotable resident families include: Carter, Goldberg, Granger, Johnson, Klein, Kessler, Drummond, Hartmann, Donovan, Hastings, Adler.",
+          "content": "Neighborhood: Lakeside Ridge.\nResidential streets rising above the waterline, with views across the lake and footpaths running down toward the shore. Houses range from compact bungalows to better-kept family homes.",
           "extensions": {},
           "enabled": true,
           "insertion_order": 5003,
           "use_regex": false,
           "constant": false,
-          "comment": "Neighborhood: Lakeside Ridge – expanded family list"
+          "comment": "Neighborhood: Lakeside Ridge – notable families include Carter, Goldberg, Granger, Johnson, Klein, Kessler, Drummond, Hartmann, Donovan, Hastings, Adler"
         },
         {
           "keys": ["Pine Hollow", "Pine Hollow neighborhood", "pine hollow area"],
