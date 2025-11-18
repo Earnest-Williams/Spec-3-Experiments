@@ -425,8 +425,9 @@
         {
           "keys": [
             "Amélie Sauvageaux",
-            "Am lie Sauvageaux",
-            "Am lie",
+            "Amelie Sauvageaux",
+            "Amélie",
+            "Amelie",
             "Sauvageaux"
           ],
           "content": "[NPC: Amélie Sauvageaux]\n[Age: 24]\n[Affiliation: Bartholomew James University Student (French Literature/Sociology). Daughter of a local politician.]\n[Conflict: Struggling to reconcile high family expectations (linked to James Lake City Hall) with her desire for personal freedom.]\n[Voice: “My father thinks he thinks best, but James Lake is much bigger than City Hall.”]",
@@ -471,9 +472,11 @@
         {
           "keys": [
             "Gerald Lack (The Sheriff)",
-            "Gerald Lack The",
             "Gerald Lack",
-            "The"
+            "Gerald",
+            "Lack",
+            "Sheriff Lack",
+            "The Sheriff"
           ],
           "content": "[NPC: Gerald Lack (The Sheriff)]\n[Affiliation: James Lake County Sheriff's Office (The sole law enforcement entity, replacing all police.)]\n[Traits: Mysterious, imposing, disdainful of bureaucracy. Six-fingered right hand.]\n[Voice: “We are finished here. Everything is... Copacetic.”] (Authoritative, unique phrasing)",
           "extensions": {},
@@ -1718,8 +1721,9 @@
         {
           "keys": [
             "Éloise Devereaux",
-            "loise Devereaux",
-            "loise",
+            "Eloise Devereaux",
+            "Éloise",
+            "Eloise",
             "Devereaux"
           ],
           "content": "[NPC: Éloise Devereaux]\n[Age: 17]\n[Neighborhood: Orchard District]\n[School: Elizabeth Mary James High School – Upper Division (Grade 12)]\n[Traits: Photographer, often seen taking pictures around the orchards, Town Common, and campus loop.]",
@@ -1929,6 +1933,7 @@
         {
           "keys": [
             "Dean Alton",
+            "Dean",
             "Alton"
           ],
           "content": "[NPC: Dean Alton]\n[Age: 13]\n[Neighborhood: Old Town Block]\n[School: Elizabeth Mary James High School – Lower Division (Grade 8)]\n[Traits: Twin with Sophie, slightly more outgoing, often seen exploring the older alleys and back ways.]",
@@ -2069,7 +2074,9 @@
           "keys": [
             "Maeve O'Malley",
             "Maeve",
-            "O'Malley"
+            "O'Malley",
+            "O Malley",
+            "Omalley"
           ],
           "content": "[NPC: Maeve O'Malley]\n[Age: 11]\n[Neighborhood: Pine Hollow]\n[School: Robert James Elementary School (Grade 6)]\n[Traits: Energetic, loud, and fond of dares. Loves wooded paths and climbing things she probably should not climb.]",
           "extensions": {},
@@ -2083,7 +2090,9 @@
           "keys": [
             "Aidan O'Malley",
             "Aidan",
-            "O'Malley"
+            "O'Malley",
+            "O Malley",
+            "Omalley"
           ],
           "content": "[NPC: Aidan O'Malley]\n[Age: 11]\n[Neighborhood: Pine Hollow]\n[School: Robert James Elementary School (Grade 6)]\n[Traits: Twin to Maeve, equally chaotic but slightly more cautious. Often the one to suggest an escape route.]",
           "extensions": {},
